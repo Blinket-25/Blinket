@@ -1,0 +1,36 @@
+{
+  "name": "binket",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@cashfreepayments/cashfree-js": "^1.0.4",
+    "@chakra-ui/react": "^2.7.1",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@tanstack/react-query": "^4.29.19",
+    "axios": "^1.4.0",
+    "cookies-next": "^2.1.2",
+    "firebase": "^9.23.0",
+    "framer-motion": "^10.12.17",
+    "next": "13.4.7",
+    "next-auth": "^4.22.1",
+    "nextjs-progressbar": "^0.0.16",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-geocode": "^0.2.3",
+    "react-google-autocomplete": "^2.7.3",
+    "react-google-maps": "^9.4.5",
+    "react-icons": "^4.10.1",
+    "react-intersection-observer": "^9.5.2",
+    "react-redux": "^8.1.1",
+    "redux-persist": "^6.0.0",
+    "swiper": "^9.4.1"
+  }
+}
